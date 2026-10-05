@@ -20,8 +20,8 @@ Fine-tuning is a method of modifying generalized LLMs to work to have better per
 
 | Topic | About |
 | ------ | ------ |
-| [Slides](./01-slides/) | - Describe fine-tuning use cases<br />- Explain the goals and tradeoffs of model fine-tuning and methods (LoRA, QLoRA, etc.)  |
-| [Low Rank Adaptation (LoRA)](./02-LoRa/) |- Apply Low-Rank Adaption of LLMs  |
+| [Slides](https://github.com/ga-curriculum/nlp-llms-fine-tuning/blob/main/01-slides/NLP-LLMs%205%20LLM%20Fine-Tuning.pdf){:target="_blank"} | - Describe fine-tuning use cases<br />- Explain the goals and tradeoffs of model fine-tuning and methods (LoRA, QLoRA, etc.)  |
+| [Low Rank Adaptation (LoRA)](https://github.com/ga-curriculum/nlp-llms-fine-tuning/tree/main/02-LoRA){:target="_blank"} |- Apply Low-Rank Adaption of LLMs  |
 
 
 
